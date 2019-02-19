@@ -1,16 +1,43 @@
 {
-    "posts":[
-      {
-        "id" : 0,
-        "title": "First post!",
-        "content" : "My first content!"
-      }
-    ],
-    "comments" : [
-      {
-        "id": 0,
-        "content": "Wow such content!",
-        "username": "zero_cool"
-      }
-    ]
-  }
+  "prodotti": [
+    {
+      "id": 1,
+      "name": "Iphone 7",
+      "brand": "Apple",
+      "description": "Apple Iphone 7 32 GB nero opaco",
+      "price": 800,
+      "offer": 20
+    },
+    {
+      "id": 2,
+      "name": "Iphone 8",
+      "brand": "Apple",
+      "description": "Apple Iphone 8 64 GB grigio",
+      "price": 591,
+      "offer": 20
+    },
+    {
+      "id": 3,
+      "name": "Iphone XR",
+      "brand": "Apple",
+      "description": "Apple Iphone XR 128 GB nero",
+      "price": 591,
+      "offer": 20
+    },
+    {
+      "id": 4,
+      "name": "Galaxy S9 64 GB nero",
+      "brand": "samsung",
+      "description": "Galaxy S9 64 GB nero",
+      "price": 591,
+      "offer": 20
+    }
+  ],
+  "user": [
+    {
+      "id": "rogerio",
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
+}
