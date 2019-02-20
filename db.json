@@ -1,43 +1,81 @@
 {
-  "prodotti": [
-    {
+  "prodotti": [{
       "id": 1,
-      "name": "Iphone 7",
-      "brand": "Apple",
-      "description": "Apple Iphone 7 32 GB nero opaco",
+      "name": "iPhone 7 32 GB nero opaco",
+      "image":"https://corso-angular-server.herokuapp.com/public/iphone7.jpg",
+      "brand": "apple",
+      "collection":"Iphone 7",
+      "description": "Apple presenta A11 Bionic, il chip più potente e intelligente mai creato per uno smartphone. Ha quattro core ad alta efficienza fino al 70% più veloci del chip A10 Fusion. E due core ad alte prestazioni fino al 25% più scattanti. iPhone 8 è davvero pensato per un futuro senza fili, ora grazie alla superficie posteriore in vetro, si ricarica senza cavo, potrai appoggiarlo sulle basi wireless che trovi negli hotel, nei bar e negli aeroporti di tutto il mondo. Per iPhone 8 è stato creato un inedito design avvolto dal vetro più resistente mai visto su uno smartphone, contornato da un profilo tono su tono in alluminio aerospaziale. Progettato con precisione millimetrica per resistere a schizzi, gocce e polvere. Con True Tone, il display Retina HD è più spettacolare che mai, con un ampia gamma cromatica e 3D Touch. La fotocamera da 12MP è ancora più evoluta: ha un sensore più ampio e veloce, un nuovo filtro colore, pixel più profondi e la stabilizzazione ottica dell’immagine per foto e video.",
       "price": 800,
       "offer": 20
     },
     {
       "id": 2,
-      "name": "Iphone 8",
-      "brand": "Apple",
+      "name": "iPhone 8 64 GB Grigio Siderale ",
+      "image":"https://corso-angular-server.herokuapp.com/public/iphone8.jpg",
+      "brand": "apple",
+      "collection":"Iphone 8",
       "description": "Apple Iphone 8 64 GB grigio",
       "price": 591,
       "offer": 20
     },
     {
       "id": 3,
-      "name": "Iphone XR",
-      "brand": "Apple",
+      "name": "iPhone XR 128 GB Nero",
+      "image":"https://corso-angular-server.herokuapp.com/public/iphoneXR.jpg",
+      "brand": "apple",
+      "collection":"Iphone XR",
       "description": "Apple Iphone XR 128 GB nero",
       "price": 591,
       "offer": 20
     },
     {
       "id": 4,
-      "name": "Galaxy S9 64 GB nero",
+      "name": "Galaxy S8 64 GB nero",
+      "image":"https://corso-angular-server.herokuapp.com/public/galaxyS8.jpg",
+      "collection":"S9",
       "brand": "samsung",
-      "description": "Galaxy S9 64 GB nero",
+      "description": "Galaxy S8 64 GB nero",
       "price": 591,
+      "offer": 20
+    },
+    {
+      "id": 5,
+      "name": "Galaxy J6 32 GB nero",
+      "image":"https://corso-angular-server.herokuapp.com/public/galaxyJ6.jpg",
+      "collection":"J6",
+      "brand": "samsung",
+      "description": "Galaxy J6 32 GB nero",
+      "price": 148,
+      "offer": 20
+    },
+    {
+      "id": 6,
+      "name": "P20 Lite Oro 64 GB 4G",
+      "image":"https://corso-angular-server.herokuapp.com/public/P20.jpg",
+      "collection":"P20",
+      "brand": "huawei",
+      "description": "HUAWEI P20 Lite Oro 64 GB 4G / LTE Dual Sim Display 5.8 Full HD+ Slot Micro SD Fotocamera 16 Mpx Android Italia",
+      "price": 236,
+      "offer": 20
+    },
+    {
+      "id": 7,
+      "name": "P10 Blu 64 GB 4G",
+      "image":"https://corso-angular-server.herokuapp.com/public/P10.jpg",
+      "collection":"P10",
+      "brand": "huawei",
+      "description": "HUAWEI P10 Blu 64 GB 4G / LTE Display 5.1 Full HD Slot Micro SD Fotocamera 20 Mpx Android Europa",
+      "price": 236,
       "offer": 20
     }
   ],
   "user": [
     {
-      "id": "rogerio",
-      "content": "Wow such content!",
-      "username": "zero_cool"
+    "id": 1,
+    "username": "rogerio",
+    "name": "Rogerio Teixeira",
+    "email": "rogerio.teixeira@corvallis.it"
     }
-  ]
+]
 }
