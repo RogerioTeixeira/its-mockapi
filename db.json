@@ -102,9 +102,8 @@
   "carrello":[],
   "user": [
     {
-    "id": 1,
+    "id": "mario.rossi@hotmail.it",
     "name": "mario rossi",
-    "email": "mario.rossi@hotmail.it",
     "password":"1234567"
     }
 ]
