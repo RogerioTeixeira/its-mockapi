@@ -104,7 +104,8 @@
     {
     "id": 1,
     "name": "mario rossi",
-    "email": "mario.rossi@hotmail.it"
+    "email": "mario.rossi@hotmail.it",
+    "password":"1234567"
     }
 ]
 }
