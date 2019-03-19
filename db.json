@@ -2,31 +2,31 @@
   "prodotti": [{
       "id": 1,
       "name": "iPhone 7 32 GB nero opaco",
-      "image":"https://corso-angular-server.herokuapp.com/public/iphone7.jpg",
+      "image": "https://corso-angular-server.herokuapp.com/public/iphone7.jpg",
       "brand": "apple",
-      "collection":"Iphone 7",
+      "collection": "Iphone 7",
       "description": "Apple presenta A11 Bionic, il chip più potente e intelligente mai creato per uno smartphone. Ha quattro core ad alta efficienza fino al 70% più veloci del chip A10 Fusion. E due core ad alte prestazioni fino al 25% più scattanti. iPhone 8 è davvero pensato per un futuro senza fili, ora grazie alla superficie posteriore in vetro, si ricarica senza cavo, potrai appoggiarlo sulle basi wireless che trovi negli hotel, nei bar e negli aeroporti di tutto il mondo. Per iPhone 8 è stato creato un inedito design avvolto dal vetro più resistente mai visto su uno smartphone, contornato da un profilo tono su tono in alluminio aerospaziale. Progettato con precisione millimetrica per resistere a schizzi, gocce e polvere. Con True Tone, il display Retina HD è più spettacolare che mai, con un ampia gamma cromatica e 3D Touch. La fotocamera da 12MP è ancora più evoluta: ha un sensore più ampio e veloce, un nuovo filtro colore, pixel più profondi e la stabilizzazione ottica dell’immagine per foto e video.",
       "price": 800,
       "offer": 5,
-      "count":10
+      "count": 10
     },
     {
       "id": 2,
       "name": "iPhone 8 64 GB Grigio Siderale ",
-      "image":"https://corso-angular-server.herokuapp.com/public/iphone8.jpg",
+      "image": "https://corso-angular-server.herokuapp.com/public/iphone8.jpg",
       "brand": "apple",
-      "collection":"Iphone 8",
+      "collection": "Iphone 8",
       "description": "Apple presenta A11 Bionic, il chip più potente e intelligente mai creato per uno smartphone. Ha quattro core ad alta efficienza fino al 70% più veloci del chip A10 Fusion. E due core ad alte prestazioni fino al 25% più scattanti. iPhone 8 è davvero pensato per un futuro senza fili, ora grazie alla superficie posteriore in vetro, si ricarica senza cavo, potrai appoggiarlo sulle basi wireless che trovi negli hotel, nei bar e negli aeroporti di tutto il mondo. Per iPhone 8 è stato creato un inedito design avvolto dal vetro più resistente mai visto su uno smartphone, contornato da un profilo tono su tono in alluminio aerospaziale. Progettato con precisione millimetrica per resistere a schizzi, gocce e polvere. Con True Tone, il display Retina HD è più spettacolare che mai, con un ampia gamma cromatica e 3D Touch. La fotocamera da 12MP è ancora più evoluta: ha un sensore più ampio e veloce, un nuovo filtro colore, pixel più profondi e la stabilizzazione ottica dell’immagine per foto e video.",
       "price": 591,
       "offer": 0,
-      "count":10
+      "count": 10
     },
     {
       "id": 3,
       "name": "iPhone XR 128 GB Nero",
-      "image":"https://corso-angular-server.herokuapp.com/public/iphoneXR.jpg",
+      "image": "https://corso-angular-server.herokuapp.com/public/iphoneXR.jpg",
       "brand": "apple",
-      "collection":"Iphone XR",
+      "collection": "Iphone XR",
       "description": "Nuovo Liquid Retina, il display LCD più evoluto del settore. Face ID ancora più veloce. Il chip per smartphone più potente e intelligente che ci sia. Un sistema di fotocamere rivoluzionario. iPhone XR. Una meraviglia, in ogni senso. Il nuovo LCD di iPhone XR è il più evoluto del settore. Grazie a un innovativo sistema di retroilluminazione, si estende fino agli angoli estremi del dispositivo per darti colori realistici da un bordo all’altro del display. Display 6,1\" LCD Liquid Retina, risoluzione 1792×828, pixel per pollice 326. Resistente all’acqua e alla polvere, fino a 1 metro di profondità per 30 minuti. E iPhone XR non teme nemmeno i liquidi come caffè, tè e altre. Bevande. Fotocamera da 12MP con grandangolo, diaframma con apertura ƒ / 1.8, zoom digitale fino a 5x. Formati video supportati: HEVC, H. 264, MPEG-4 Part 2 e Motion JPEG. Video Mirroring e uscita video: fino a 1080p con gli adattatori Lightning-AV digitale o Lightning-VGA. SIRI Per mandare messaggi, impostare promemoria e molto altro, usando la voce, Suggeri­menti smart sulla schermata di blocco e in Messaggi, Mail, QuickType e altro, Attivazione vocale con il comando.",
       "price": 591,
       "offer": 0,
@@ -35,8 +35,8 @@
     {
       "id": 4,
       "name": "Galaxy S8 64 GB nero",
-      "image":"https://corso-angular-server.herokuapp.com/public/galaxyS8.jpg",
-      "collection":"S9",
+      "image": "https://corso-angular-server.herokuapp.com/public/galaxyS8.jpg",
+      "collection": "S9",
       "brand": "samsung",
       "description": "Il Samsung Galaxy S8 è uno smartphone Top di Gamma che si presenta principalmente per il suo “infinity display” senza cornici e tasti, con il suo schermo curvo che ricopre quasi tutta la parte frontale grazie ai suoi 5.8” a 570 ppi con risoluzione QHD+, 2960 x 1440 pixel. Il Galaxy S8 porta per la prima volta in uno smartphone la connessione bluetooth 5.0 con velocità di ricezione e trasmissione aumentata. Propone una batteria non estraibile di 3000 mAh, supportando la ricarica rapida, con la nuova porta di ricarica USB Type-C. La novità assoluta del Galaxy S8 è Bixby, l’assistente virtuale, pronta a fornirti informazioni aggiuntive, consigli, aiutarti con gli appuntamenti, controllare il meteo o la posta elettronica. La fotocamera implementata ha una risoluzione di 8 MP (anteriore) e 12 MP (posteriore) con tecnologia dual pixel, stabilizzatore ottico e un apertura focale ampia con f / 1.7 che permette, di scattare ottime foto anche in condizioni di luce scarsa. Il Galaxy S8 oltre ad avere lo scanner di impronte digitali, questa volta posizionato sul retro, include la novità dello scanner dell'iride.",
       "price": 428,
@@ -46,8 +46,8 @@
     {
       "id": 5,
       "name": "Galaxy J6 32 GB nero",
-      "image":"https://corso-angular-server.herokuapp.com/public/galaxyJ6.jpg",
-      "collection":"J6",
+      "image": "https://corso-angular-server.herokuapp.com/public/galaxyJ6.jpg",
+      "collection": "J6",
       "brand": "samsung",
       "description": "Galaxy J6 vanta immagini dai colori vivi e brillanti e una visione a tutto schermo. Goditi un’esperienza di visualizzazione incredibilmente unica grazie all’Infinity Display da 5,6” HD+ con tecnologia Super AMOLED. Stile e comodità per una vita sempre in movimento. Grazie alle sue meravigliose linee curve e ricercate, Galaxy J6 è perfetto per essere tenuto nel palmo della tua mano. L’Infinity Display 5,6” di Galaxy J6 è l’ideale per attività multitasking come giochi, messaggistica e navigazione web. Goditi contemporaneamente il meglio offerto dalle tue app, come guardare i tuoi video senza distogliere lo sguardo dai messaggi. Rendi i tuoi scatti più nitidi. Galaxy J6 include un Flash LED frontale regolabile su tre livelli di luminosità, per evitare immagini sovraesposte e scattare selfie perfetti anche con poca luce. Dona un tocco di creatività alle tue foto. Galaxy J6 è accompagnato da diverse funzioni della camera e da filtri creativi, per dare quel tocco in più ai tuoi scatti. Protezione personalizzata. Adesso puoi sbloccare all’istante il tuo telefono semplicemente avvicinandolo al viso. La tecnologia di riconoscimento del viso ti permette di essere l’unico in grado di accedere al tuo telefono, assicurandoti che i tuoi dati personali non cadano nelle mani sbagliate. Rendi più facile l’accesso al tuo telefono con una sicurezza di cui ti puoi fidare. Galaxy J6 dispone di un affidabile sistema di riconoscimento delle impronte digitali che ti permette di effettuare l’accesso a siti web e app, per un multitasking senza interruzioni.",
       "price": 148,
@@ -57,8 +57,8 @@
     {
       "id": 6,
       "name": "P20 Lite Oro 64 GB 4G",
-      "image":"https://corso-angular-server.herokuapp.com/public/P20.jpg",
-      "collection":"P20",
+      "image": "https://corso-angular-server.herokuapp.com/public/P20.jpg",
+      "collection": "P20",
       "brand": "huawei",
       "description": "Huawei P20 Lite è uno smartphone che dispone di un grande display da 5.84 pollici con una risoluzione di 2280×1080 pixel, Full HD+. Huawei P20 Lite ha un processore Kirin 659 octa-core con GPU MaliT830, 64 Gb di memoria inclusa, espandibili tramite lo slot MicroSD. Il P20 Lite dispone di una fotocamera frontale da ben 16 megapixel + 2 megapixel con Led Flash che permette di scattare foto di alta qualità con una risoluzione di 4608×3456 pixel e di registrare video in alta definizione. Sfrutta al massimo il sistema operativo Android 8.0 Oreo con interfaccia Emui 8.1.",
       "price": 236,
@@ -68,8 +68,8 @@
     {
       "id": 7,
       "name": "P10 Blu 64 GB 4G",
-      "image":"https://corso-angular-server.herokuapp.com/public/P10.jpg",
-      "collection":"P10",
+      "image": "https://corso-angular-server.herokuapp.com/public/P10.jpg",
+      "collection": "P10",
       "brand": "huawei",
       "description": "Cambia il modo in cui ti mostri al resto del mondo attraverso l’obiettivo di HUAWEI P10. Ridefinisci il tuo ritratto personale. Per la prima volta su uno smartphone, una finitura iperdiamantata che regala resistenza e colore: in questo modo, HUAWEI P10 fissa uno standard di riferimento in termini di stile e tecnica. La nuova doppia fotocamera di seconda generazione sviluppata insieme a Leica usa il riconoscimento preciso dei volti in 3D, l’illuminazione dinamica e le tecnologie di miglioramento naturale del ritratto per offrire scatti artistici sorprendenti nello stile fotografico di Leica. La nuovissima fotocamera frontale cattura il doppio della luce, permettendoti di scattare ritratti straordinari, sia di giorno che di sera. La nuova doppia fotocamera di seconda generazione sviluppata insieme a Leica è dotata di due obiettivi SUMMARIT-H con un’apertura F2.2. Il risultato? Video in 4K, sensori da 20MP+12MP, stabilizzazione ottica dell’immagine. Immagini di qualità superiore in condizioni di scarsa luminosità.",
       "price": 236,
@@ -79,8 +79,8 @@
     {
       "id": 8,
       "name": "Xperia XZ1 Nero 64 GB 4G",
-      "image":"https://corso-angular-server.herokuapp.com/public/XZ1.jpg",
-      "collection":"Xperia XZ1",
+      "image": "https://corso-angular-server.herokuapp.com/public/XZ1.jpg",
+      "collection": "Xperia XZ1",
       "brand": "sony",
       "description": "Xperia XZ1 è in grado di mettere a fuoco e immortalare scene d'azione nitide grazie allo scatto multiplo: addio foto sfocate. Cogli ancora più dettagli per emozioni mai viste prima. Grazie all'esclusiva funzione Super slow motion, le tue riprese saranno più vivide rispetto ai video acquisiti con altri smartphone. Xperia XZ1 ha una RAM da 4 GB, Memoria interna da 64GB con supporto per microSDXC (fino a 256 GB). Fotocamera Motion Eye da 19 megapixel con Sensore Exmor RS. Scatto multiplo con messa a fuoco automatica, Fotocamera anteriore da 13 megapixel.",
       "price": 233,
@@ -90,21 +90,69 @@
     {
       "id": 9,
       "name": "Xperia XZ3 Nero 64 GB 4G",
-      "image":"https://corso-angular-server.herokuapp.com/public/XZ3.jpg",
-      "collection":"Xperia XZ3",
+      "image": "https://corso-angular-server.herokuapp.com/public/XZ3.jpg",
+      "collection": "Xperia XZ3",
       "brand": "sony",
       "description": "Xperia XZ3 è un telefono QHD+ HDR da 6\" con uno display 18:9 dal design curvo che utilizza un pannello OLED con tecnologia Bravia, racchiuso in una cornice in alluminio. L’intuitiva interfaccia Side sense ti consente di utilizzare una sola mano ed avere sempre le app più utilizzate a disposizione e l’Always on display ti permette perfino di mostrare le tue foto. Scopri la fotocamera Motion Eye da 19MP con acquisizione predittiva e avvio intelligente che rileva il movimento della mano. Registra video in 4K HDR con più contrasto, colore e dettaglio oltre alla possibilità di registrare video in super slow motion in Full HD. E quando visualizzi i contenuti sul display, con Advanced X-Reality tutti i video SDR verranno convertiti per avvicinarsi alla bellezza dell'HDR. Prova l’app 3D creator anche con la camera frontale e scansiona la tua testa e le espressioni del volto. Ascolta i potenti altoparlanti stereo anteriori per sentire l'esperienza del surround S-Force che dona la sensazione di un suono più coinvolgente. Che tu stia guardando film o video musicali, il Sistema di vibrazione dinamico di Sony analizza i dati audio e ti permette di sentire l'azione in mano, per un'esperienza di intrattenimento davvero unica. Goditi più velocità con l'ultimo processore Qualcomm Snapdragon 845 octa core e Android Pie. Xperia XZ3 è uno smartphone di cui ti puoi fidare per tutto il giorno grazie alla batteria da 3330 mAh e la ricarica wireless, alla certificazione IP68 e al sensore di impronte digitali sempre attivo. Colore: nero.",
       "price": 659,
       "offer": 0,
-      "count":3
+      "count": 3
     }
   ],
-  "carrello":[],
-  "user": [
+  "carrello": [],
+  "clienti": [
     {
+    "id": 1,
+    "name": "mario",
+    "cognome":"rossi",
+    "eta":50,
+    "indirizzo":"via bergamo",
+    "citta":"milano"
+  },
+  {
+    "id": 2,
+    "name": "andrea",
+    "cognome":"gatti",
+    "eta":50,
+    "indirizzo":"via omero",
+    "citta":"milano"
+  },
+  {
+    "id": 3,
+    "name": "daniela",
+    "cognome":"mari",
+    "eta":50,
+    "indirizzo":"viale lucania",
+    "citta":"bergamo"
+  },
+  {
+    "id": 4,
+    "name": "Elisa",
+    "cognome":"repossi",
+    "eta":50,
+    "indirizzo":"via pirelli",
+    "citta":"crema"
+  },
+  {
+    "id": 5,
+    "name": "carlo",
+    "cognome":"fumagalli",
+    "eta":50,
+    "indirizzo":"via regina",
+    "citta":"napoli"
+  },
+  {
+    "id": 6,
+    "name": "emanuela",
+    "cognome":"colombo",
+    "eta":50,
+    "indirizzo":"viale libertà",
+    "citta":"palermo"
+  }
+],
+  "user": [{
     "id": "mario.rossi@hotmail.it",
     "name": "mario rossi",
-    "password":"1234567"
-    }
-]
+    "password": "1234567"
+  }]
 }
