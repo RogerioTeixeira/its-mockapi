@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "publish":"git push heroku master"
+    "publish": "git push heroku master"
   },
   "author": "",
   "license": "ISC",

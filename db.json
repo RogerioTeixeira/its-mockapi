@@ -1,4 +1,8 @@
 {
+  "customers": [{
+    "id": 1,
+    "pIva": "1245474"
+  }],
   "prodotti": [{
       "id": 1,
       "name": "iPhone 7 32 GB nero opaco",
@@ -100,56 +104,55 @@
     }
   ],
   "carrello": [],
-  "clienti": [
+  "clienti": [{
+      "id": 1,
+      "name": "mario",
+      "cognome": "rossi",
+      "eta": 50,
+      "indirizzo": "via bergamo",
+      "citta": "milano"
+    },
     {
-    "id": 1,
-    "name": "mario",
-    "cognome":"rossi",
-    "eta":50,
-    "indirizzo":"via bergamo",
-    "citta":"milano"
-  },
-  {
-    "id": 2,
-    "name": "andrea",
-    "cognome":"gatti",
-    "eta":50,
-    "indirizzo":"via omero",
-    "citta":"milano"
-  },
-  {
-    "id": 3,
-    "name": "daniela",
-    "cognome":"mari",
-    "eta":50,
-    "indirizzo":"viale lucania",
-    "citta":"bergamo"
-  },
-  {
-    "id": 4,
-    "name": "Elisa",
-    "cognome":"repossi",
-    "eta":50,
-    "indirizzo":"via pirelli",
-    "citta":"crema"
-  },
-  {
-    "id": 5,
-    "name": "carlo",
-    "cognome":"fumagalli",
-    "eta":50,
-    "indirizzo":"via regina",
-    "citta":"napoli"
-  },
-  {
-    "id": 6,
-    "name": "emanuela",
-    "cognome":"colombo",
-    "eta":50,
-    "indirizzo":"viale libertà",
-    "citta":"palermo"
-  }
-],
+      "id": 2,
+      "name": "andrea",
+      "cognome": "gatti",
+      "eta": 50,
+      "indirizzo": "via omero",
+      "citta": "milano"
+    },
+    {
+      "id": 3,
+      "name": "daniela",
+      "cognome": "mari",
+      "eta": 50,
+      "indirizzo": "viale lucania",
+      "citta": "bergamo"
+    },
+    {
+      "id": 4,
+      "name": "Elisa",
+      "cognome": "repossi",
+      "eta": 50,
+      "indirizzo": "via pirelli",
+      "citta": "crema"
+    },
+    {
+      "id": 5,
+      "name": "carlo",
+      "cognome": "fumagalli",
+      "eta": 50,
+      "indirizzo": "via regina",
+      "citta": "napoli"
+    },
+    {
+      "id": 6,
+      "name": "emanuela",
+      "cognome": "colombo",
+      "eta": 50,
+      "indirizzo": "viale libertà",
+      "citta": "palermo"
+    }
+  ],
   "user": [{
     "id": "mario.rossi@hotmail.it",
     "name": "mario rossi",
