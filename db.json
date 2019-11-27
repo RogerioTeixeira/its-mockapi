@@ -1,5 +1,5 @@
 {
-  "clienti": [{
+  "customers": [{
       "id": 1,
       "denominazione": "Google Italia",
       "pIva": "1245474",
@@ -40,7 +40,7 @@
       "id": 1,
       "totaleNetto": 1000,
       "totaleIva": 200,
-      "clienteId": 1,
+      "customerId": 1,
       "anno": 2019,
       "mese": 1
     },
@@ -48,7 +48,7 @@
       "id": 2,
       "totaleNetto": 2000,
       "totaleIva": 400,
-      "clienteId": 1,
+      "customerId": 1,
       "anno": 2019,
       "mese": 2
     },
@@ -56,14 +56,14 @@
       "id": 3,
       "totaleNetto": 2000,
       "totaleIva": 400,
-      "clienteId": 2,
+      "customerId": 2,
       "anno": 2019,
       "mese": 1
     }, {
       "id": 4,
       "totaleNetto": 4000,
       "totaleIva": 800,
-      "clienteId": 2,
+      "customerId": 2,
       "anno": 2019,
       "mese": 2
     },
@@ -71,14 +71,14 @@
       "id": 4,
       "totaleNetto": 1500,
       "totaleIva": 330,
-      "clienteId": 3,
+      "customerId": 3,
       "anno": 2019,
       "mese": 8
     }, {
       "id": 5,
       "totaleNetto": 5000,
       "totaleIva": 1100,
-      "clienteId": 3,
+      "customerId": 3,
       "anno": 2019,
       "mese": 5
     },
@@ -86,7 +86,7 @@
       "id": 6,
       "totaleNetto": 2600.25,
       "totaleIva": 572.05,
-      "clienteId": 3,
+      "customerId": 3,
       "anno": 2019,
       "mese": 8
     }
