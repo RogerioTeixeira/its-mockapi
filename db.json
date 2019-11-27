@@ -1,94 +1,94 @@
 {
   "customers": [{
       "id": 1,
-      "denominazione": "Google Italia",
-      "pIva": "1245474",
-      "paese": "Italia",
-      "comune": "Padova",
-      "indirizzo": "Via regione veneto 20",
+      "name": "Google Italia",
+      "codeIva": "1245474",
+      "country": "Italia",
+      "city": "Padova",
+      "address": "Via regione veneto 20",
       "urlLogo": "https://corso-angular-server.herokuapp.com/public/google.png"
     },
     {
       "id": 2,
-      "denominazione": "Apple Italia",
-      "pIva": "478542487",
-      "paese": "Italia",
-      "comune": "Milano",
-      "indirizzo": "Via lombardia 110",
+      "name": "Apple Italia",
+      "codeIva": "478542487",
+      "country": "Italia",
+      "city": "Milano",
+      "address": "Via lombardia 110",
       "urlLogo": "https://corso-angular-server.herokuapp.com/public/apple.png"
     },
     {
       "id": 3,
-      "denominazione": "Toyota Italia",
-      "pIva": "895314689",
-      "paese": "Italia",
-      "comune": "Roma",
-      "indirizzo": "Viale Guglielmo Marconi 50",
+      "name": "Toyota Italia",
+      "codeIva": "895314689",
+      "country": "Italia",
+      "city": "Roma",
+      "address": "Viale Guglielmo Marconi 50",
       "urlLogo": "https://corso-angular-server.herokuapp.com/public/toyota.png"
     },
     {
       "id": 4,
-      "denominazione": "Shell Italia",
-      "pIva": "254789996",
-      "paese": "Italia",
-      "comune": "Milano",
-      "indirizzo": "Viale omero 26",
+      "name": "Shell Italia",
+      "codeIva": "254789996",
+      "country": "Italia",
+      "city": "Milano",
+      "address": "Viale omero 26",
       "urlLogo": "https://corso-angular-server.herokuapp.com/public/shell.png"
     }
   ],
   "invoices": [{
       "id": 1,
-      "totaleNetto": 1000,
-      "totaleIva": 200,
+      "netAmount": 1000,
+      "ivaAmount": 200,
       "customerId": 1,
-      "anno": 2019,
-      "mese": 1
+      "yaer": 2019,
+      "month": 1
     },
     {
       "id": 2,
-      "totaleNetto": 2000,
-      "totaleIva": 400,
+      "netAmount": 2000,
+      "ivaAmount": 400,
       "customerId": 1,
-      "anno": 2019,
-      "mese": 2
+      "year": 2019,
+      "month": 2
     },
     {
       "id": 3,
-      "totaleNetto": 2000,
-      "totaleIva": 400,
+      "netAmount": 2000,
+      "ivaAmount": 400,
       "customerId": 2,
-      "anno": 2019,
-      "mese": 1
+      "year": 2019,
+      "month": 1
     }, {
       "id": 4,
-      "totaleNetto": 4000,
-      "totaleIva": 800,
+      "netAmount": 4000,
+      "ivaAmount": 800,
       "customerId": 2,
-      "anno": 2019,
-      "mese": 2
+      "year": 2019,
+      "month": 2
     },
     {
       "id": 4,
-      "totaleNetto": 1500,
-      "totaleIva": 330,
+      "netAmount": 1500,
+      "ivaAmount": 330,
       "customerId": 3,
-      "anno": 2019,
-      "mese": 8
+      "year": 2019,
+      "month": 8
     }, {
       "id": 5,
-      "totaleNetto": 5000,
-      "totaleIva": 1100,
+      "netAmount": 5000,
+      "ivaAmount": 1100,
       "customerId": 3,
-      "anno": 2019,
-      "mese": 5
+      "year": 2019,
+      "month": 5
     },
     {
       "id": 6,
-      "totaleNetto": 2600.25,
-      "totaleIva": 572.05,
+      "netAmount": 2600.25,
+      "ivaAmount": 572.05,
       "customerId": 3,
-      "anno": 2019,
-      "mese": 8
+      "year": 2019,
+      "month": 8
     }
   ],
   "prodotti": [{
@@ -174,7 +174,7 @@
       "image": "https://corso-angular-server.herokuapp.com/public/XZ1.jpg",
       "collection": "Xperia XZ1",
       "brand": "sony",
-      "description": "Xperia XZ1 è in grado di mettere a fuoco e immortalare scene d'azione nitide grazie allo scatto multiplo: addio foto sfocate. Cogli ancora più dettagli per emozioni mai viste prima. Grazie all'esclusiva funzione Super slow motion, le tue riprese saranno più vivide rispetto ai video acquisiti con altri smartphone. Xperia XZ1 ha una RAM da 4 GB, Memoria interna da 64GB con supporto per microSDXC (fino a 256 GB). Fotocamera Motion Eye da 19 megapixel con Sensore Exmor RS. Scatto multiplo con messa a fuoco automatica, Fotocamera anteriore da 13 megapixel.",
+      "description": "Xperia XZ1 è in grado di mettere a fuoco e immortalare scene d'azione nitide grazie allo scatto multiplo: addio foto sfocate. Cogli ancora più dettagli per emozioni mai viste prima. Grazie all'esclusiva funzione Super slow motion, le tue riprese saryear più vivide rispetto ai video acquisiti con altri smartphone. Xperia XZ1 ha una RAM da 4 GB, Memoria interna da 64GB con supporto per microSDXC (fino a 256 GB). Fotocamera Motion Eye da 19 megapixel con Sensore Exmor RS. Scatto multiplo con messa a fuoco automatica, Fotocamera anteriore da 13 megapixel.",
       "price": 233,
       "offer": 0,
       "count": 0
@@ -185,7 +185,7 @@
       "image": "https://corso-angular-server.herokuapp.com/public/XZ3.jpg",
       "collection": "Xperia XZ3",
       "brand": "sony",
-      "description": "Xperia XZ3 è un telefono QHD+ HDR da 6\" con uno display 18:9 dal design curvo che utilizza un pannello OLED con tecnologia Bravia, racchiuso in una cornice in alluminio. L’intuitiva interfaccia Side sense ti consente di utilizzare una sola mano ed avere sempre le app più utilizzate a disposizione e l’Always on display ti permette perfino di mostrare le tue foto. Scopri la fotocamera Motion Eye da 19MP con acquisizione predittiva e avvio intelligente che rileva il movimento della mano. Registra video in 4K HDR con più contrasto, colore e dettaglio oltre alla possibilità di registrare video in super slow motion in Full HD. E quando visualizzi i contenuti sul display, con Advanced X-Reality tutti i video SDR verranno convertiti per avvicinarsi alla bellezza dell'HDR. Prova l’app 3D creator anche con la camera frontale e scansiona la tua testa e le espressioni del volto. Ascolta i potenti altoparlanti stereo anteriori per sentire l'esperienza del surround S-Force che dona la sensazione di un suono più coinvolgente. Che tu stia guardando film o video musicali, il Sistema di vibrazione dinamico di Sony analizza i dati audio e ti permette di sentire l'azione in mano, per un'esperienza di intrattenimento davvero unica. Goditi più velocità con l'ultimo processore Qualcomm Snapdragon 845 octa core e Android Pie. Xperia XZ3 è uno smartphone di cui ti puoi fidare per tutto il giorno grazie alla batteria da 3330 mAh e la ricarica wireless, alla certificazione IP68 e al sensore di impronte digitali sempre attivo. Colore: nero.",
+      "description": "Xperia XZ3 è un telefono QHD+ HDR da 6\" con uno display 18:9 dal design curvo che utilizza un pannello OLED con tecnologia Bravia, racchiuso in una cornice in alluminio. L’intuitiva interfaccia Side sense ti consente di utilizzare una sola mano ed avere sempre le app più utilizzate a disposizione e l’Always on display ti permette perfino di mostrare le tue foto. Scopri la fotocamera Motion Eye da 19MP con acquisizione predittiva e avvio intelligente che rileva il movimento della mano. Registra video in 4K HDR con più contrasto, colore e dettaglio oltre alla possibilità di registrare video in super slow motion in Full HD. E quando visualizzi i contenuti sul display, con Advanced X-Reality tutti i video SDR verryear convertiti per avvicinarsi alla bellezza dell'HDR. Prova l’app 3D creator anche con la camera frontale e scansiona la tua testa e le espressioni del volto. Ascolta i potenti altoparlanti stereo anteriori per sentire l'esperienza del surround S-Force che dona la sensazione di un suono più coinvolgente. Che tu stia guardando film o video musicali, il Sistema di vibrazione dinamico di Sony analizza i dati audio e ti permette di sentire l'azione in mano, per un'esperienza di intrattenimento davvero unica. Goditi più velocità con l'ultimo processore Qualcomm Snapdragon 845 octa core e Android Pie. Xperia XZ3 è uno smartphone di cui ti puoi fidare per tutto il giorno grazie alla batteria da 3330 mAh e la ricarica wireless, alla certificazione IP68 e al sensore di impronte digitali sempre attivo. Colore: nero.",
       "price": 659,
       "offer": 0,
       "count": 3
