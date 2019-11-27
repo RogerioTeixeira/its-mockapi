@@ -1,8 +1,96 @@
 {
-  "customers": [{
-    "id": 1,
-    "pIva": "1245474"
-  }],
+  "clienti": [{
+      "id": 1,
+      "denominazione": "Google Italia",
+      "pIva": "1245474",
+      "paese": "Italia",
+      "comune": "Padova",
+      "indirizzo": "Via regione veneto 20",
+      "urlLogo": "https://corso-angular-server.herokuapp.com/public/google.png"
+    },
+    {
+      "id": 2,
+      "denominazione": "Apple Italia",
+      "pIva": "478542487",
+      "paese": "Italia",
+      "comune": "Milano",
+      "indirizzo": "Via lombardia 110",
+      "urlLogo": "https://corso-angular-server.herokuapp.com/public/apple.png"
+    },
+    {
+      "id": 3,
+      "denominazione": "Toyota Italia",
+      "pIva": "895314689",
+      "paese": "Italia",
+      "comune": "Roma",
+      "indirizzo": "Viale Guglielmo Marconi 50",
+      "urlLogo": "https://corso-angular-server.herokuapp.com/public/toyota.png"
+    },
+    {
+      "id": 4,
+      "denominazione": "Shell Italia",
+      "pIva": "254789996",
+      "paese": "Italia",
+      "comune": "Milano",
+      "indirizzo": "Viale omero 26",
+      "urlLogo": "https://corso-angular-server.herokuapp.com/public/shell.png"
+    }
+  ],
+  "fatture": [{
+      "id": 1,
+      "totaleNetto": 1000,
+      "totaleIva": 200,
+      "clienteId": 1,
+      "anno": 2019,
+      "mese": 1
+    },
+    {
+      "id": 2,
+      "totaleNetto": 2000,
+      "totaleIva": 400,
+      "clienteId": 1,
+      "anno": 2019,
+      "mese": 2
+    },
+    {
+      "id": 3,
+      "totaleNetto": 2000,
+      "totaleIva": 400,
+      "clienteId": 2,
+      "anno": 2019,
+      "mese": 1
+    }, {
+      "id": 4,
+      "totaleNetto": 4000,
+      "totaleIva": 800,
+      "clienteId": 2,
+      "anno": 2019,
+      "mese": 2
+    },
+    {
+      "id": 4,
+      "totaleNetto": 1500,
+      "totaleIva": 330,
+      "clienteId": 3,
+      "anno": 2019,
+      "mese": 8
+    }, {
+      "id": 5,
+      "totaleNetto": 5000,
+      "totaleIva": 1100,
+      "clienteId": 3,
+      "anno": 2019,
+      "mese": 5
+    },
+    {
+      "id": 6,
+      "totaleNetto": 2600.25,
+      "totaleIva": 572.05,
+      "clienteId": 3,
+      "anno": 2019,
+      "mese": 8
+    }
+  ],
   "prodotti": [{
       "id": 1,
       "name": "iPhone 7 32 GB nero opaco",
@@ -104,55 +192,6 @@
     }
   ],
   "carrello": [],
-  "clienti": [{
-      "id": 1,
-      "name": "mario",
-      "cognome": "rossi",
-      "eta": 50,
-      "indirizzo": "via bergamo",
-      "citta": "milano"
-    },
-    {
-      "id": 2,
-      "name": "andrea",
-      "cognome": "gatti",
-      "eta": 50,
-      "indirizzo": "via omero",
-      "citta": "milano"
-    },
-    {
-      "id": 3,
-      "name": "daniela",
-      "cognome": "mari",
-      "eta": 50,
-      "indirizzo": "viale lucania",
-      "citta": "bergamo"
-    },
-    {
-      "id": 4,
-      "name": "Elisa",
-      "cognome": "repossi",
-      "eta": 50,
-      "indirizzo": "via pirelli",
-      "citta": "crema"
-    },
-    {
-      "id": 5,
-      "name": "carlo",
-      "cognome": "fumagalli",
-      "eta": 50,
-      "indirizzo": "via regina",
-      "citta": "napoli"
-    },
-    {
-      "id": 6,
-      "name": "emanuela",
-      "cognome": "colombo",
-      "eta": 50,
-      "indirizzo": "viale libertà",
-      "citta": "palermo"
-    }
-  ],
   "user": [{
     "id": "mario.rossi@hotmail.it",
     "name": "mario rossi",
