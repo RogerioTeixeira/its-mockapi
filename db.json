@@ -36,7 +36,7 @@
       "urlLogo": "https://corso-angular-server.herokuapp.com/public/shell.png"
     }
   ],
-  "fatture": [{
+  "invoices": [{
       "id": 1,
       "totaleNetto": 1000,
       "totaleIva": 200,
