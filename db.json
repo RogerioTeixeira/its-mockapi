@@ -1,5 +1,6 @@
 {
-  "customers": [{
+  "customers": [
+    {
       "id": 1,
       "name": "Google Italia",
       "codeIva": "1245474",
@@ -36,14 +37,7 @@
       "urlLogo": "https://corso-angular-server.herokuapp.com/public/shell.png"
     }
   ],
-  "invoices": [{
-      "id": 1,
-      "netAmount": 1000,
-      "ivaAmount": 200,
-      "customerId": 1,
-      "year": 2019,
-      "month": 1
-    },
+  "invoices": [
     {
       "id": 2,
       "netAmount": 2000,
@@ -59,7 +53,8 @@
       "customerId": 2,
       "year": 2019,
       "month": 1
-    }, {
+    },
+    {
       "id": 4,
       "netAmount": 4000,
       "ivaAmount": 800,
@@ -74,13 +69,14 @@
       "customerId": 3,
       "year": 2019,
       "month": 8
-    }, {
+    },
+    {
       "id": 5,
       "netAmount": 5000,
       "ivaAmount": 1100,
       "customerId": 3,
       "year": 2019,
-      "month": 5
+      "month": 6
     },
     {
       "id": 6,
@@ -89,9 +85,18 @@
       "customerId": 3,
       "year": 2019,
       "month": 8
+    },
+    {
+      "id": 1,
+      "netAmount": 1000,
+      "ivaAmount": 200,
+      "customerId": 1,
+      "year": 2019,
+      "month": 6
     }
   ],
-  "prodotti": [{
+  "prodotti": [
+    {
       "id": 1,
       "name": "iPhone 7 32 GB nero opaco",
       "image": "https://corso-angular-server.herokuapp.com/public/iphone7.jpg",
@@ -192,9 +197,11 @@
     }
   ],
   "carrello": [],
-  "user": [{
-    "id": "mario.rossi@hotmail.it",
-    "name": "mario rossi",
-    "password": "1234567"
-  }]
+  "user": [
+    {
+      "id": "mario.rossi@hotmail.it",
+      "name": "mario rossi",
+      "password": "1234567"
+    }
+  ]
 }
