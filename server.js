@@ -9,4 +9,6 @@ server.use(middlewares);
 server.use('/public', express.static('public'));
 server.use(router);
 
-server.listen(port);
+server.listen(port, function () {
+    console.log(`app listening on port ${port}`);
+});
